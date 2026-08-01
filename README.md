@@ -89,12 +89,18 @@ currently  : Building predictive models and real-world ML projects & Deep Learni
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements & Milestones
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Yousuf-Mughal&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="Muhammad-Yousuf-Mughal GitHub Trophies" />
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/Muhammad-Yousuf-Mughal/Muhammad-Yousuf-Mughal?style=for-the-badge&color=58A6FF&logo=github)
+![GitHub Repo Count](https://img.shields.io/github/repos/count/Muhammad-Yousuf-Mughal?style=for-the-badge&color=58A6FF&logo=github)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Muhammad-Yousuf-Mughal/Muhammad-Yousuf-Mughal?style=for-the-badge&color=58A6FF&logo=github)
+
+<br/>
+
+<a href="https://github.com/Muhammad-Yousuf-Mughal">
+  <img src="https://github-readme-clubhouse.vercel.app/api?username=Muhammad-Yousuf-Mughal&theme=dark" alt="GitHub Achievements" />
 </a>
 
 </div>
