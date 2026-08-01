@@ -93,11 +93,11 @@ currently  : Building predictive models and real-world ML projects & Deep Learni
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Yousuf-Mughal&theme=flat&no-frame=true&row=2&column=4"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Yousuf-Mughal&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="Muhammad-Yousuf-Mughal GitHub Trophies" />
+</a>
 
 </div>
-
----
 
 # 🚀 Featured AI & Machine Learning Projects
 
