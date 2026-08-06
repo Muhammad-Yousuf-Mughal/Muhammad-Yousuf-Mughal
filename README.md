@@ -114,21 +114,6 @@ currently  : Building predictive models and real-world ML projects & Deep Learni
 
 <div align="center">
 
-  # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Muhammad-Yousuf-Mughal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Muhammad-Yousuf-Mughal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Muhammad-Yousuf-Mughal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Muhammad-Yousuf-Mughal&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Muhammad-Yousuf-Mughal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 
 
 # 📊 GitHub Stats:
